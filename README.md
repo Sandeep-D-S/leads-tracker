@@ -16,3 +16,5 @@ Technologies Used:
 HTML: Provides the structure and content of the extension's popup and mini tab.
 CSS: Defines the visual style and layout of the extension elements.
 JavaScript: Powers the functionality of saving URLs, managing the mini tab, and interacting with Chrome's extension API.
+
+![image](https://github.com/Sandeep-D-S/leads-tracker/assets/131298678/4b2b9a29-ecd5-4115-b955-434965649365)
